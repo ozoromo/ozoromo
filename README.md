@@ -1,7 +1,13 @@
 ## Hi there 👋
 
+I'm ✨ _ozoromo_ ✨, a developer and sysadmin with an interest in:
+- 🦀 Rust developent
+- ⚡ Code optimization
+- 👁️ Digital privacy
+- 🔒 Information security
+- 🌱 Selfhosting
 <!--
-**ozoromo/ozoromo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ozoromo/ozoromo** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
