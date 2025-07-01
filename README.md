@@ -5,6 +5,7 @@ I'm ✨ _ozoromo_ ✨, a developer and sysadmin with an interest in:
 - ⚡ Code optimization
 - 👁️ Digital privacy
 - 🔒 Information security
+- ❄️ Nix and nixos
 - 🌱 Selfhosting
 <!--
 **ozoromo/ozoromo** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
