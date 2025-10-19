@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm ✨ _ozoromo_ ✨, a developer and sysadmin with an interest in:
+I'm _ozoromo_ , a developer and sysadmin with an interest in:
 - 🦀 Rust developent
 - ⚡ Code optimization
 - 👁️ Digital privacy
