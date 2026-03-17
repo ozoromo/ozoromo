@@ -1,6 +1,7 @@
 ## Well well well, I've been expecting you
 
-I'm _ozoromo_ , a developer and sysadmin with an interest in Rust, Nix(OS), digital security and privacy
+Security engineer, developer, and Nix enthusiast.
+In my free time I build complex systems only to tear them back down, now I've started writing about it.
 
 ### Metrics
 
