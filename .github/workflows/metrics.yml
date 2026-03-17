@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: ozoromo/metrics@master
+      - uses: ozoromo/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
